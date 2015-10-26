@@ -1,0 +1,539 @@
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Oils well.exe
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Oils well.pdb
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\obj\x86\Debug\Oils well.exe
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\obj\x86\Debug\Oils well.pdb
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy1.png
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy2.png
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy3.png
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy4.png
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy5.png
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy6.png
+c:\users\marijn\documents\visual studio 2015\Projects\Oil's well\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.3\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.5\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.6\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.7\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.8\Oil's well\bin\Windows\Debug\Content\highscore.txt
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy4.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy5.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy6.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\candy7.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.9\Oil's well\bin\Windows\Debug\highscore.txt
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\player.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Content\wall.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Oils well.exe.manifest
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Oils well.application
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\obj\x86\Debug\Oils well.exe.manifest
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v0.95\Oil's well\obj\x86\Debug\Oils well.application
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\player.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\wall.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Oils well.exe.manifest
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Oils well.application
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\obj\x86\Debug\Oils well.exe.manifest
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\obj\x86\Debug\Oils well.application
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\enemy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\enemy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\enemy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\level1bg.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.0\Oil's well\bin\Windows\Debug\Content\level2bg.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\enemy1.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\enemy2.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\enemy3.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\level1bg.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\level2bg.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\player.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\wall.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Oils well.exe.manifest
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Oils well.application
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\obj\x86\Debug\Oils well.exe.manifest
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\obj\x86\Debug\Oils well.application
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\cornerTube.png
+C:\Users\Marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.1\Oil's well\bin\Windows\Debug\Content\enemy_time.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\cornerTube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\enemy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\enemy2.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\enemy3.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\enemy_time.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\level1bg.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\level2bg.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\player.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Content\wall.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Oils well.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Oils well.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\obj\x86\Debug\Oils well.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\obj\x86\Debug\Oils well.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.2\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\cornerTube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\enemy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\enemy2.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\enemy3.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\enemy_time.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\level1bg.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\level2bg.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\player.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\wall.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Oils well.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Oils well.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\obj\x86\Debug\Oils well.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\obj\x86\Debug\Oils well.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.3\Oil's well\bin\Windows\Debug\Content\submitButton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\obj\x86\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\obj\x86\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\obj\x86\Debug\Oil's well.csprojResolveAssemblyReference.cache
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\candy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\cornerTube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\enemy1.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\enemy2.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\enemy3.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\enemy_time.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\level1bg.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\level2bg.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\Logo.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\player.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\highscorebutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\mainmenubutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\quitbutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\startbutton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\submitButton.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\test.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\tube.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Content\wall.png
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Oils well.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Oils well.application
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Oils well.exe
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\Oils well.pdb
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\obj\x86\Debug\Oils well.exe.manifest
+C:\Users\marijn\Documents\Visual Studio 2015\Projects\Oil's well v1.4\Oil's well\obj\x86\Debug\Oils well.application

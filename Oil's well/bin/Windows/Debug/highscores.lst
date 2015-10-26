@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<HighScore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PlayerName>
+    <string>MARIJN</string>
+    <string>MARIJN</string>
+    <string>SHAWN</string>
+    <string>CARL</string>
+    <string>CARL</string>
+    <string>LISA</string>
+    <string>NEIL</string>
+    <string>SHAWN</string>
+    <string>YAY</string>
+    <string>PETER</string>
+  </PlayerName>
+  <Score>
+    <int>28400</int>
+    <int>15000</int>
+    <int>12000</int>
+    <int>10000</int>
+    <int>9000</int>
+    <int>8000</int>
+    <int>7000</int>
+    <int>6000</int>
+    <int>5700</int>
+    <int>5000</int>
+  </Score>
+  <Count>10</Count>
+</HighScore>
