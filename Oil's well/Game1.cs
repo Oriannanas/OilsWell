@@ -32,6 +32,7 @@ namespace Oils_well
         public List<Texture2D> candyTexts { get; private set; } = new List<Texture2D>();
         public List<Texture2D> enemyTexts { get; private set; } = new List<Texture2D>();
         public List<Texture2D> levelTexts { get; private set; } = new List<Texture2D>();
+        public List<Texture2D> uiTexts { get; private set; } = new List<Texture2D>();
 
         public List<List<Texture2D>> textureLists { get; private set; } = new List<List<Texture2D>>();
 
@@ -142,6 +143,7 @@ namespace Oils_well
             textureLists.Add(candyTexts);
             textureLists.Add(enemyTexts);
             textureLists.Add(levelTexts);
+            textureLists.Add(uiTexts);
 
             //verdander de testText naar een texture om de hitboxes te zien
             testText = null;
@@ -155,11 +157,10 @@ namespace Oils_well
             textureLists[4].Add(Content.Load<Texture2D>("enemy1")); // enemy
             textureLists[4].Add(Content.Load<Texture2D>("enemy2")); // enemy
             textureLists[4].Add(Content.Load<Texture2D>("enemy3")); // enemy
+            textureLists[5].Add(Content.Load<Texture2D>("levelxbg")); // level x achtergrond
             textureLists[5].Add(Content.Load<Texture2D>("level1bg")); // level 1 achtergrond
             textureLists[5].Add(Content.Load<Texture2D>("level2bg")); // level 2 achtergrond
-            //textureLists[5].Add(Content.Load<Texture2D>("level3bg")); // level 3 achtergrond
-            //textureLists[5].Add(Content.Load<Texture2D>("level4bg")); // level 4 achtergrond
-            //textureLists[5].Add(Content.Load<Texture2D>("level5bg")); // level 5 achtergrond
+            textureLists[6].Add(Content.Load<Texture2D>("scorebg"));
         }
 
         /// <summary>
@@ -305,7 +306,7 @@ namespace Oils_well
             objGraphics = Graphics.FromImage(objBmpImage);
 
             // Set Background color
-            objGraphics.Clear(System.Drawing.Color.Black);
+            objGraphics.Clear(System.Drawing.Color.Transparent);
             objGraphics.SmoothingMode = SmoothingMode.AntiAlias;
             objGraphics.TextRenderingHint = TextRenderingHint.AntiAlias;
             objGraphics.DrawString(sImageText, objFont, new SolidBrush(System.Drawing.Color.FromArgb(255, 255, 255)), 0, 0);

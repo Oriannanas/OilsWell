@@ -3,17 +3,19 @@
   <PlayerName>
     <string>MARIJN</string>
     <string>MARIJN</string>
+    <string>MARIJN</string>
+    <string>MARIJN</string>
     <string>SHAWN</string>
     <string>CARL</string>
     <string>CARL</string>
     <string>LISA</string>
     <string>NEIL</string>
     <string>SHAWN</string>
-    <string>YAY</string>
-    <string>PETER</string>
   </PlayerName>
   <Score>
+    <int>50800</int>
     <int>28400</int>
+    <int>25500</int>
     <int>15000</int>
     <int>12000</int>
     <int>10000</int>
@@ -21,8 +23,6 @@
     <int>8000</int>
     <int>7000</int>
     <int>6000</int>
-    <int>5700</int>
-    <int>5000</int>
   </Score>
   <Count>10</Count>
 </HighScore>

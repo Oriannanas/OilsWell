@@ -36,7 +36,8 @@ namespace Oils_well
 
         private GridSystem grid;
 
-        private int timer;
+        private float timer;
+        private int enemyTimer;
         private int moveTimer;
         private int enemyTimeOut;
         private Random random = new Random();
@@ -181,6 +182,7 @@ namespace Oils_well
                 grid.Initialize(this, this.levelList);
                 grid.LoadLevel(levelIndex);
                 enemyTimeOut = 0;
+                timer = 60;
 
                 player = new Player(this, game.textureLists[0][0], grid.StartPosition, game.testText);
             }
@@ -216,7 +218,7 @@ namespace Oils_well
             if (enemyTimeOut <= 0)
             {
 
-                if (timer <= 0)
+                if (enemyTimer <= 0)
                 {
                     foreach (Vector2 enemySpawn in enemySpawnList)
                     {
@@ -246,11 +248,11 @@ namespace Oils_well
                             }
                         }
                     }
-                    timer = 60;
+                    enemyTimer = 60;
                 }
                 else
                 {
-                    timer -= 1;
+                    enemyTimer -= 1;
                 }
 
 
@@ -277,6 +279,16 @@ namespace Oils_well
             else
             {
                 enemyTimeOut -= 1;
+            }
+
+            if (timer > 0)
+            {
+                timer -= (float)gameTime.ElapsedGameTime.Milliseconds/1000;
+            }
+            else
+            {
+                game.SwitchToEndGame(score, "Uh - oh, you ran out of time :(");
+                UnloadLevel();
             }
 
         }
@@ -406,7 +418,7 @@ namespace Oils_well
             }
             else
             {
-                game.SwitchToEndGame(score, "Uh - oh, you died: (");
+                game.SwitchToEndGame(score, "Uh - oh, you died :(");
                 UnloadLevel();
             }
         }
@@ -465,10 +477,17 @@ namespace Oils_well
             {
                 enemy.Draw(spriteBatch);
             }
-            if (game.textureLists[5].Count >= currentLevel)
+            if (game.textureLists[5].Count >= currentLevel+1)
             {
-                spriteBatch.Draw(game.textureLists[5][this.currentLevel - 1], new Microsoft.Xna.Framework.Rectangle(viewportWidth / 2 - game.textureLists[5][this.currentLevel - 1].Width / 2, 0, game.textureLists[5][this.currentLevel - 1].Width, game.textureLists[5][this.currentLevel - 1].Height), Microsoft.Xna.Framework.Color.White);
+                spriteBatch.Draw(game.textureLists[5][this.currentLevel], new Microsoft.Xna.Framework.Rectangle(viewportWidth / 2 - game.textureLists[5][this.currentLevel].Width / 2, 0, game.textureLists[5][this.currentLevel].Width, game.textureLists[5][this.currentLevel].Height), Microsoft.Xna.Framework.Color.White);
             }
+            else
+            {
+                spriteBatch.Draw(game.textureLists[5][0], new Microsoft.Xna.Framework.Rectangle(viewportWidth / 2 - game.textureLists[5][0].Width / 2, 0, game.textureLists[5][0].Width, game.textureLists[5][0].Height), Microsoft.Xna.Framework.Color.White);
+            }
+            spriteBatch.Draw(game.textureLists[6][0], new Microsoft.Xna.Framework.Rectangle(viewportWidth / 2 - game.textureLists[6][0].Width / 2 + 7, 57, game.textureLists[6][0].Width, game.textureLists[6][0].Height), Microsoft.Xna.Framework.Color.White);
+            Texture2D timerTexture = game.TextToTexture(Math.Round(timer).ToString(), 20);
+            spriteBatch.Draw(timerTexture, new Rectangle((game.GraphicsDevice.Viewport.Width/2 - timerTexture.Width/2 + 7), 60,timerTexture.Width,timerTexture.Height), Color.White);
             spriteBatch.Draw(game.TextToTexture(score.ToString(), 20), new Vector2(20, 20), null, Microsoft.Xna.Framework.Color.White, 0f, Vector2.Zero, 1f, SpriteEffects.None, 0f);
             livesText = game.TextToTexture(lives.ToString(), 20);
             spriteBatch.Draw(livesText, new Vector2(viewportWidth - 20 - livesText.Width, 20), null, Microsoft.Xna.Framework.Color.White, 0f, Vector2.Zero, 1f, SpriteEffects.None, 0f);
