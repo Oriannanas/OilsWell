@@ -7,7 +7,7 @@
     <framework targetVersion="4.0" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Oils well.exe.manifest" size="17418">
+    <dependentAssembly dependencyType="install" codebase="Application Files\Oils well_1_0_0_4\Oils well.exe.manifest" size="17418">
       <assemblyIdentity name="Oils well.exe" version="1.0.0.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="x86" type="win32" />
       <hash>
         <dsig:Transforms>
