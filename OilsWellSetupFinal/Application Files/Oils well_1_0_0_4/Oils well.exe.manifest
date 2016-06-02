@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Oils well.exe" size="185344">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Oils well.exe" size="184320">
       <assemblyIdentity name="Oils well" version="3.4.0.456" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>k3JtM7E6STM9IggtAFugeJ+3WSQ=</dsig:DigestValue>
+        <dsig:DigestValue>ElBlQEmvF85YRAks5aS/YlMcJho=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -255,15 +255,6 @@
       <dsig:DigestValue>tkONWmbgMR8tjdRkkGzoirtnBMk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Content\levelxbg.png" size="1914">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>3s58wc4SljgsI2oudV6132NYq8k=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Content\Logo.png" size="16923">
     <hash>
       <dsig:Transforms>
@@ -298,15 +289,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
       <dsig:DigestValue>Jmhw6k36Jl2xCRelLiMk+KfjWdI=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="Content\scorebg.png" size="482">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>0PEALI19fS0QoXV9/SI6ACuckDc=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Content\startbutton.png" size="2086">
