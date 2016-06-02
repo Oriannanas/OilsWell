@@ -1,0 +1,289 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    height: 100%;
+    line-height: 180%;
+    color: #000;
+}
+p{
+ margin-bottom: 16px;   
+}
+h1{}
+h2{margin-bottom: 32px;}
+h3{margin-bottom: 28px;}
+h4{}
+h5{}
+h6{}
+
+h2 a, h3 a{
+    border-radius: 5px;
+    background-color: red;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+a {
+    color: #fff;
+}
+a:hover{
+ text-decoration: none;   
+}
+td{
+ padding-bottom: 16px;   
+}
+li,
+ul {
+    list-style: none;
+}
+
+label{
+    width: 200px;
+ display: inline-block;
+    
+}
+input[type="text"], input[type="password"], input[type="email"]{
+    background: rgba(255,255,255,0.5);
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 16px;
+}
+input[type="submit"]{
+    background: #f85032;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 5px;color: white;
+    margin-bottom: 16px;
+}
+input[type="submit"]:hover{
+    background: #000000;
+}
+ input[type="text"]:focus , input[type="password"]:focus, input[type="email"]:focus,  input[type="submit"]:focus {
+    outline: 0;
+}
+.grid {
+    padding: 30px 0 0 30px;
+    width: 100%;
+    max-width: 900px;
+    min-width: 450px;
+    margin: 0 auto;
+}
+
+.grid:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+[class*='column'] {
+    float:left;
+    padding: 0 20px 20px 0;
+    box-sizing: border-box;
+}
+
+.column-1-8{
+    width: 12.5%;
+}
+.column-2-8{
+    width: 25%;
+}
+.column-3-8{
+    width: 37.5%;
+}
+.column-4-8{
+    width: 50%;
+}
+.column-5-8{
+    width: 62.5%;
+}
+.column-6-8{
+    width: 75%;
+}
+.column-7-8{
+    width: 87.5%;
+}
+.column-8-8{
+    width: 100%;
+}
+/*************/
+/*specefieker*/
+/*************/
+#wrap{
+ /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#bdea5b+0,95c621+100 */
+background: #bdea5b; /* Old browsers */
+background: -moz-linear-gradient(top,  #bdea5b 0%, #95c621 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bdea5b), color-stop(100%,#95c621)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #bdea5b 0%,#95c621 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #bdea5b 0%,#95c621 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #bdea5b 0%,#95c621 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #bdea5b 0%,#95c621 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bdea5b', endColorstr='#95c621',GradientType=0 ); /* IE6-9 */
+   min-height: 100%;
+}
+header {
+background: #bfeefc; /* Old browsers */
+background: -moz-linear-gradient(top,  #bfeefc 0%, #53cbf1 40%, #05abe0 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bfeefc), color-stop(40%,#53cbf1), color-stop(100%,#05abe0)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #bfeefc 0%,#53cbf1 40%,#05abe0 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #bfeefc 0%,#53cbf1 40%,#05abe0 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #bfeefc 0%,#53cbf1 40%,#05abe0 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #bfeefc 0%,#53cbf1 40%,#05abe0 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfeefc', endColorstr='#05abe0',GradientType=0 ); /* IE6-9 */
+height: 200px;
+}
+
+#logo {
+    width: 200px;
+    float: left;
+}
+
+#logo img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.mainmenu {
+    border-radius: 35px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f85032+0,f16f5c+50,f6290c+51,f02f17+71,e73827+100;Red+Gloss+%231 */
+background: #f85032; /* Old browsers */
+background: -moz-linear-gradient(top,  #f85032 0%, #f16f5c 50%, #f6290c 51%, #f02f17 71%, #e73827 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f85032), color-stop(50%,#f16f5c), color-stop(51%,#f6290c), color-stop(71%,#f02f17), color-stop(100%,#e73827)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f85032 0%,#f16f5c 50%,#f6290c 51%,#f02f17 71%,#e73827 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#e73827',GradientType=0 ); /* IE6-9 */
+
+}
+#mainmenu .grid{ 
+    padding-left: 0;
+}
+.mainmenu:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.mainmenu li {
+    padding: 15px 0px 15px 15px ;
+    float: left;
+    font-size: 18px;
+    font-weight:  bold;
+}
+
+.mainmenu a {
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 15px;
+    padding: 17px 22px;
+}
+.mainmenu a:hover {
+    background: #f85032;
+}
+#left-side{
+ float: left;
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    left: 0; 
+    top: 0;
+}
+#content {
+    padding-top: 20px;
+}
+#right-side{
+ float: left;
+    position: absolute;
+    width: 20%;
+    height: 100%;
+    right: 0; 
+    top: 0;
+}
+
+.product-promotie{
+    border-top: 5px solid black;   
+}
